@@ -1,0 +1,73 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+h1 {
+  padding: 20px;
+  font-size: 50px;
+  text-align: center;
+  display: block;
+  width: 790px;
+  background-color: skyblue
+}
+
+nav {
+  line-height: 3;
+  background-color: white;
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+
+}
+
+nav ul {
+  list-style-type: none;
+
+}
+
+a {
+  color: forestgreen;
+  font-size: 22px;
+}
+
+section {
+  width: 516px;
+  display:inline-block;
+  margin-left: 40px;
+}
+
+section h2 {
+  text-align: center;
+  display: block;
+  font-size: 30px;
+}
+
+section article p {
+  text-align: center;
+  font-size: 20px;
+  color: blue;
+}
+
+aside{
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: white;
+  font-size: 14px;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color: skyblue;
+  text-align: center;
+  padding: 5px;
+  display: block;
+}

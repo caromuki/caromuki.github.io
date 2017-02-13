@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-color:white;
+    }
+p{
+  background-color:#c8d8e6;
+}
+
+img {
+  height:400px;
+  border-style:solid;
+  border-width:5px;
+}
+
+
+
+header {
+  padding: 5px;
+  display: block;
+  width: 790px;
+}
+
+nav {
+  line-height:3;
+  background-color:white;
+  width:125px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color: ;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+}
+
+aside {
+  width: 125px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:;
+  font-size: ;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  text-align:;
+  padding:5px;
+  display: block;
+}
